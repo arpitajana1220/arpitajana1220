@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arpita Jana @arpitajana1220
 - 👀 I’m interested in contributing to the world of Data Science
 - 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Information retrival(IR) system
 - 📫 You can reach me on arpitajana2000@gmail.com
 
 <!---
