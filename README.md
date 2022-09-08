@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpita Jana @arpitajana1220
 - 👀 I’m interested in contributing to the world of Data Science
-- 🌱 I’m currently learning Machine Learning 
+- 🌱Continuous Learning and Consistency is the Key. 
 - 📫 You can reach me on arpitajana2000@gmail.com
 
 <!---
