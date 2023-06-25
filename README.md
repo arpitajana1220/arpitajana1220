@@ -1,5 +1,5 @@
 ![logo](https://github.com/arpitajana1220/arpitajana1220/blob/main/Data%20Engineering.gif)
-<h1 align="center">Hi 👋, I'm Arpita</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> Hello! I am Arpita </h1>
 <h3 align="center">A passionate</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro+Titling&pause=1000&color=7B2CF7&center=true&width=1200&lines=Data+Analyst;Data+Engineer;Big+Data+Engineer" alt="Typing SVG" /></a>
 <IMG alt="Coding Girl" width="400" height="350" align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
