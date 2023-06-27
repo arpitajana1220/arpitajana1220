@@ -5,7 +5,7 @@
 <IMG alt="Coding Girl" width="400" height="350" align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 <p align="left"> <a href="https://twitter.com/arpitaj1220" target="blank"><img src="https://img.shields.io/twitter/follow/arpitaj1220?logo=twitter&style=for-the-badge" alt="arpitaj1220" /></a> </p>
 
-- 🔭 I’m currently working on **30 Days SQL Mastery**
+- 🔭 I’m currently working on **SQL for Data Engineering**
 
 - 🌱 I’m currently learning **Data engineering**
 
