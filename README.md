@@ -42,7 +42,7 @@
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  title="VS Code"/>
 </p>
 
-
+[![An image of @arpitajana1220's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpitajana1220)](https://holopin.io/@arpitajana1220)
 <!---
 arpitajana1220/arpitajana1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
