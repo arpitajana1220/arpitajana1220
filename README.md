@@ -1,13 +1,13 @@
 ![logo](https://github.com/arpitajana1220/arpitajana1220/blob/main/Data%20Engineering.gif)
 <h1 align="center"> Hello! I am Arpita </h1>
 <h3 align="center">A passionate</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro+Titling&pause=1000&color=7B2CF7&center=true&width=1200&lines=Data+Analyst;Data+Engineer;Big+Data+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro&pause=1000&color=7B2CF7&center=true&random=false&width=1200&lines=Software+Developer;Backend+Developer;Data+Engineer" alt="Typing SVG" /></a>
 <IMG alt="Coding Girl" width="400" height="350" align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 <p align="left"> <a href="https://twitter.com/arpitaj1220" target="blank"><img src="https://img.shields.io/twitter/follow/arpitaj1220?logo=twitter&style=for-the-badge" alt="arpitaj1220" /></a> </p>
 
 - 🔭 I’m currently working on **Google Cloud Platform**
 
-- 🌱 I’m currently learning **Data engineering**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📝 I regularly write articles on [https://medium.com/@arpitajana2000](https://medium.com/@arpitajana2000)
 
