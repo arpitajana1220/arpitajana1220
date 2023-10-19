@@ -1,5 +1,5 @@
 ![logo](https://github.com/arpitajana1220/arpitajana1220/blob/main/Software%20Developnment.gif)
-<h1 align="center"><img src="https://github.com/arpitajana1220/arpitajana1220/blob/main/hi.gif" width = "30">Hello! I am Arpita</h1>
+<h1 align="center">Hello! I am Arpita :wave:</h1>
 <h3 align="center">A passionate</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro&pause=1000&color=7B2CF7&center=true&random=false&width=1200&lines=Software+Developer;Backend+Developer;Data+Engineer" alt="Typing SVG" /></a>
 <IMG alt="Coding Girl" width="400" height="350" align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
