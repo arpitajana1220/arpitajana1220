@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📝 I regularly write articles on [https://medium.com/@arpitajana2000](https://medium.com/@arpitajana2000)
+- 📝 I write articles on [https://medium.com/@arpitajana2000](https://medium.com/@arpitajana2000)
 
 - 💬 Ask me about **Python, SQL, Databases**
 
