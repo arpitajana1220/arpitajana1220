@@ -3,7 +3,7 @@
 <h3 align="center">A passionate</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro&pause=1000&color=7B2CF7&center=true&random=false&width=1200&lines=Software+Developer;Backend+Developer;Data+Engineer" alt="Typing SVG" /></a>
 <IMG alt="Coding Girl" width="400" height="350" align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-<p align="left"> <a href="https://twitter.com/Arpita_Jana_" target="_blank"><img src="https://img.shields.io/twitter/follow/arpitaj1220?logo=twitter&style=for-the-badge" alt="arpitaj1220" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Arpita_Jana_" target="_blank"><img src="https://img.shields.io/twitter/follow/Arpita_Jana_?logo=twitter&style=for-the-badge" alt="Arpita_Jana_" /></a> </p>
 
 - 🔭 I’m currently working on **Google Cloud Platform**
 
