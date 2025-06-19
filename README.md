@@ -1,4 +1,4 @@
-![logo](https://github.com/arpitajana1220/arpitajana1220/blob/main/Data%20Engineering.gif)
+![logo](https://github.com/arpitajana1220/arpitajana1220/blob/main/Software%20Developnment.gif)
 <h1 align="center">Hello! I am Arpita :wave:</h1>
 <h3 align="center">A passionate</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro&pause=1000&color=7B2CF7&center=true&random=false&width=1200&lines=Software+Developer;Backend+Developer;Data+Engineer" alt="Typing SVG" /></a>
